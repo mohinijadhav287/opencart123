@@ -1,0 +1,27 @@
+git --version ...To check version
+cd path of folder  ...To enter in perticular folder
+git config --global user.name mohini
+git config --global user.email mohinijadhav287
+
+git config user.name ...To check config user.name
+git init   ...To initialize
+git status ...To check status of project
+
+cd home 
+git add index.html ...To add file
+git status ..To check added file/status
+git rm --catch<index.html> ...To remove file
+git add .  ...To add all created files at a time
+git rm --catched index.html ...To remove perticular file
+git commit -m 'added index file'
+git commit -m 'added titlefile'
+git log ...To check commit
+git log --oneline ...To check sigle commit
+git checkout copy and past code of commit 
+
+Flow-
+modifire-> commite ->check
+
+github account
+git install(git GUI)
+tortoisegit downloads(64 windows)
