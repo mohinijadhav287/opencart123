@@ -21,6 +21,8 @@ git checkout copy and past code of commit
 
 Flow-
 modifire-> commite ->check
+commit
+pull 
 
 github account signin
 git install(git GUI)
