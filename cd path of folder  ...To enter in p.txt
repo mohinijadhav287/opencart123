@@ -22,6 +22,6 @@ git checkout copy and past code of commit
 Flow-
 modifire-> commite ->check
 
-github account
+github account signin
 git install(git GUI)
 tortoisegit downloads(64 windows)
